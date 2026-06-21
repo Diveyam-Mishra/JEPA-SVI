@@ -1,7 +1,3 @@
-# JEPA IV Surface
-
-A research framework for constructing, forecasting, and analyzing implied volatility surfaces using Joint Embedding Predictive Architectures (JEPA).
-
 ## Overview
 
 JEPA IV Surface provides an end-to-end pipeline for:
