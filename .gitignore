@@ -1,0 +1,11 @@
+.uv-cache/
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+data/raw/
+data/processed/
+runs/
+outputs/
+*.pt
+*.npz
